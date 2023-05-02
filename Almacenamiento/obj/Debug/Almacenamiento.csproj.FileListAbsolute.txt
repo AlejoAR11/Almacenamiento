@@ -1,0 +1,14 @@
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.csproj.AssemblyReference.cache
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.FrmTXT.resources
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.Properties.Resources.resources
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.csproj.GenerateResource.cache
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\bin\Debug\Almacenamiento.exe.config
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\bin\Debug\Almacenamiento.exe
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\bin\Debug\Almacenamiento.pdb
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\bin\Debug\MaterialSkin.dll
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.csproj.CopyComplete
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.exe
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.pdb
+C:\Users\Capo\source\repos\Almacenamiento\Almacenamiento\obj\Debug\Almacenamiento.frmCSV.resources
